@@ -14,6 +14,7 @@
         <br /></asp:Label><asp:TextBox
             ID="TextBox1" runat="server"></asp:TextBox><br />
             <asp:Image ID="Image1" runat="server" />
+            <asp:Label Text="Hacker here!!!" ID="lbl2" runat=server></asp:Label>
 
 
     </div>
