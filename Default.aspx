@@ -12,7 +12,9 @@
     <h1>Hello this is Team Megamind</h1>
         <asp:Label ID="Label1" runat="server" Text="MIT MANIPAL">
         <br /></asp:Label><asp:TextBox
-            ID="TextBox1" runat="server"></asp:TextBox>
+            ID="TextBox1" runat="server"></asp:TextBox><br />
+            <asp:Image ID="Image1" runat="server" />
+
 
     </div>
     </form>
