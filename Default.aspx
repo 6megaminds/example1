@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <h1>Hello this is Team Megamind</h1>
+        <asp:Label ID="Label1" runat="server" Text="MIT MANIPAL"></asp:Label>
     </div>
     </form>
 </body>
